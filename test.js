@@ -9,4 +9,4 @@ function whoAmI(name, age) {
   console.log('I was born in ' + yob);
 }
 
-whoAmI('Wade',27);
+whoAmI('Wade',-27);
