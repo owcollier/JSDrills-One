@@ -14,8 +14,9 @@ function whoAmI(name, age) {
 }
 
 try {
-  whoAmI('Chris',-29);
+  whoAmI('Wade',-27);
 }
+
 catch (e) {
   throw new Error('Age cannot be negative');
 }
